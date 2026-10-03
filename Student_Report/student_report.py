@@ -18,6 +18,7 @@ Report = {
     "Average":average(m1,m2,m3),
     "Result":Result(average(m1,m2,m3))
 }
+
 for key,value in Report.items():
     print(key,":",value)
 
