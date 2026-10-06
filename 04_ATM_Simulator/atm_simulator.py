@@ -31,3 +31,39 @@ while True:
         break
     else:
         print("Invalid Choice!")
+
+
+
+#Output:
+# 1. Check Balance
+# 2. Deposit
+# 3. Withdraw
+# 4. Exit
+# Enter your choice:1
+# Current Balance: 1000
+# 1. Check Balance
+# 2. Deposit
+# 3. Withdraw
+# 4. Exit
+# Enter your choice:2
+# Enter deposit amount:10000
+# Deposit Successful!
+# 1. Check Balance
+# 2. Deposit
+# 3. Withdraw
+# 4. Exit
+# Enter your choice:3
+# Enter withdraw amount:1000
+# Withdraw Successful!
+# 1. Check Balance
+# 2. Deposit
+# 3. Withdraw
+# 4. Exit
+# Enter your choice:1
+# Current Balance: 10000
+# 1. Check Balance
+# 2. Deposit
+# 3. Withdraw
+# 4. Exit
+# Enter your choice:4
+# Thank you! Goodbye.
